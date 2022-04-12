@@ -41,7 +41,7 @@ window.addEventListener('DOMContentLoaded', function () {
 
       insertStylesheet('http://amio.github.io/gh-index/index.css');
       // insertStylesheet('index.css')
-      insertStylesheetAsync('https://octicons.github.com/components/octicons/octicons/octicons.css');
+      insertStylesheetAsync('https://octicons.github.com/components/octicons/octicons/octicons.css';
       window.fetch || insertScript('https://cdn.jsdelivr.net/fetch/0.9.0/fetch.min.js');
 
       index.loadTrees();
