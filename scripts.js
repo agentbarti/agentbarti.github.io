@@ -1,10 +1,5 @@
 'use strict';
 
-/**
- * gh-index
- * An directory index for gh-pages.
- */
-
 window.addEventListener('DOMContentLoaded', function () {
   var wrapper = document.getElementById('gh-index');
 
